@@ -2,4 +2,4 @@
 
 ## Beat Maker GUI Applicarion in javaFx
 
-Format: ![Beat Maker](./Capture.PNG)
+![Beat Maker](./Capture.PNG)
